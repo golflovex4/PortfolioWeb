@@ -1,14 +1,57 @@
-body {
-    background-color: rgb(138, 247, 241);
-    
-  }
+
   h1 {
-    color: white;
-    text-align: center;
-  }
-  
+
+    font-family: Audiowide;
+    color: rgba(255, 255, 255, 0.774);
+    font-size: 70px;
+
+  } 
   p {
-    font-family: verdana;
+
+    font-family:Aclonica;
     font-size: 20px;
+    color:  	#7e02f1;
     
   }
+
+  table{
+    width: 100%;
+    height: 150%;
+    text-align: center;
+    }
+
+  table2{
+      text-align: center;
+      }
+
+  .table-menu {
+    background-color: 	rgba(93, 29, 175, 0.555);
+    text-align:left;
+    }
+
+
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+      }
+  .button1 {background-color: #7100dc;}
+
+  .table-content{
+    text-align: center;    
+    }
+  .table-content2{
+      text-align: left;
+          
+      }
+
+  .table-content p{
+    text-align:center;    
+      } 
