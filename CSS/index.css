@@ -13,6 +13,14 @@
     color:  	#7e02f1;
     
   }
+  p2 {
+
+    font-family:Aclonica;
+    font-size: 30px;
+    color:  	#a200ff;
+    text-align: center;
+    
+  }
 
   table{
     width: 100%;
@@ -48,8 +56,8 @@
     text-align: center;    
     }
   .table-content2{
-      text-align: left;
-          
+      text-align: center;
+
       }
 
   .table-content p{
